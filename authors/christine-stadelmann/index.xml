@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Stadelmann | </title>
+    <link>/authors/christine-stadelmann/</link>
+      <atom:link href="/authors/christine-stadelmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christine Stadelmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-512.png</url>
+      <title>Christine Stadelmann</title>
+      <link>/authors/christine-stadelmann/</link>
+    </image>
+    
+    <item>
+      <title>Lack of astrocytes hinders parenchymal oligodendrocyte precursor cells from reaching a myelinating state in osmolyte-induced demyelination</title>
+      <link>/publication/cpm/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cpm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

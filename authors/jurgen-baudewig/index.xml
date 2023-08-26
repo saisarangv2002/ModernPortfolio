@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jürgen Baudewig | </title>
+    <link>/authors/jurgen-baudewig/</link>
+      <atom:link href="/authors/jurgen-baudewig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jürgen Baudewig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-512.png</url>
+      <title>Jürgen Baudewig</title>
+      <link>/authors/jurgen-baudewig/</link>
+    </image>
+    
+    <item>
+      <title>Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents</title>
+      <link>/publication/burst-suppression/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/burst-suppression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal stability of fMRI in medetomidine-anesthetized rats</title>
+      <link>/publication/medetomidine/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/medetomidine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

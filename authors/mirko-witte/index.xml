@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirko Witte | </title>
+    <link>/authors/mirko-witte/</link>
+      <atom:link href="/authors/mirko-witte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mirko Witte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-512.png</url>
+      <title>Mirko Witte</title>
+      <link>/authors/mirko-witte/</link>
+    </image>
+    
+    <item>
+      <title>Increased Callosal Connectivity in Reeler Mice Revealed by Brain-Wide Input Mapping of VIP Neurons in Barrel Cortex</title>
+      <link>/publication/reeler/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reeler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Brainhack Community | </title>
+    <link>/authors/the-brainhack-community/</link>
+      <atom:link href="/authors/the-brainhack-community/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Brainhack Community</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-512.png</url>
+      <title>The Brainhack Community</title>
+      <link>/authors/the-brainhack-community/</link>
+    </image>
+    
+    <item>
+      <title>Brainhack: Developing a culture of open, inclusive, community-driven neuroscience</title>
+      <link>/publication/brainhack/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/brainhack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

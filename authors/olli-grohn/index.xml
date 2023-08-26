@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olli Gröhn | </title>
+    <link>/authors/olli-grohn/</link>
+      <atom:link href="/authors/olli-grohn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olli Gröhn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-512.png</url>
+      <title>Olli Gröhn</title>
+      <link>/authors/olli-grohn/</link>
+    </image>
+    
+    <item>
+      <title>Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents</title>
+      <link>/publication/burst-suppression/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/burst-suppression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
